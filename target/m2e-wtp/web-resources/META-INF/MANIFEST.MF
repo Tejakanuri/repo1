@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: 003-getting-started-with-spring-boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.testApp
+Build-Jdk: 1.7.0_45
+Built-By: ksiripurapu
+Created-By: Maven Integration for Eclipse
+Main-Class: demo.Application
+
